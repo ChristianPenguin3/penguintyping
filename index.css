@@ -1,10 +1,11 @@
 body {
-    color: black;
+    background-color: #474141;
 }
 
 .header {
     width: 100%;
     height: 10vh;
-    color: black;
+    background-color: #474141;
+    color: #C41E3A;
     text-align: center;
 }
